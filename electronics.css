@@ -1,0 +1,31 @@
+/* Name:NEXTELECTRONICS
+	electronics.css
+	External style sheet 
+	Date: 29.01.2013
+	Author:Aakriti Awasthi
+*/
+
+h1,h2,h3,h4,h5,h6 {text-align:center; color:solid gray}
+.center {text-align:center;}
+.right {text-align:right;color:brown;size:10;font-weight:bold;}
+.news{color:blue;font-size:30}
+
+p.left {text-align:left;color:brown}
+p.right {text-align:right;color:brown}
+p.center {text-align:center;color:red;font-size:18}
+body {background-color:white}
+div.mainCont {float:left; width:100%; height: 100%;}
+div.menudiv {float:left;width:100%;padding:0%;border:5px solid gray;}
+
+div.container { float:left; height:30%; width:100%;}
+div.container1 {float:left; height:30%; width:100% }
+div.container2 {float:left; height:100%; width:100% }
+div.mydiv{ float:left;width:450px;padding:10px;border:5px solid gray;margin:10px;border-style:dotted}
+
+div.space { float:left;width:80px;padding:10px;margin:5%;}
+div.rightmenu{float:left;width:150px;padding:10px;border:5px solid gray;margin:10px;}
+
+div.boxes{float:left; width:200px;height:40%;padding:10px;border:5px solid gray;margin:10px;border-style:double}
+
+img.boxImg:hover{width:110%;height:90%;border-style:groove;border:5px solid gray}
+/*div.boxes:hover{width:250px;border-style:groove;border:5px solid gray}*/
